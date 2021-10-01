@@ -2,7 +2,7 @@ Pomodoro - a simple timer for productivity and focus
   This is a simple android timer app
   Pomodoro is a great technique to keep focus and avoid distractions, this Pomodoro app is a simple and an easy app timer. 
 
-      You can dawnload the app 'apk' here --> " https://drive.google.com/file/d/1Dl4MQUhJN4wX9C3OUnHm3jzormoxyHri/view?usp=sharing ".                                                     The app on amazon app store -->" https://www.amazon.com/gp/product/B097S7W6W1 " 
+    You can dawnload the app 'apk' here --> " https://drive.google.com/file/d/1Dl4MQUhJN4wX9C3OUnHm3jzormoxyHri/view?usp=sharing ".                                                     The app on amazon app store -->" https://www.amazon.com/gp/product/B097S7W6W1 " 
 
 --> Technical details:
 
