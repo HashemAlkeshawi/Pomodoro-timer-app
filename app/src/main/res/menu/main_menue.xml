@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.today.tomorrowsplanner.PlannerActivity">
+
+    <item
+        android:id="@+id/reset"
+        android:orderInCategory="100"
+        android:title="Settings"
+        android:icon="@drawable/reset_icon"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/Settings"
+        android:orderInCategory="100"
+        android:title="Settings"
+        android:icon="@drawable/settings_icon"
+        app:showAsAction="always"/>
+
+
+
+
+
+</menu>
